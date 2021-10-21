@@ -1,0 +1,27 @@
+$primary: #6610f2; // SOBRE ESCRIBE
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"; // AGREGA TODO
+
+#elrow {
+    height: 500px;
+    width: 500px;
+    margin-left: 30%;
+    align-content: center;
+}
+
+.precio {
+    font-size: 18px;
+    margin: 0;
+}
+
+.footer {
+    padding: 2.5rem 0;
+    color: white;
+    background: #f9f9f9;
+}
+
+@media (min-width: 576px) {
+    #elrow {
+        margin-left: 0%;
+    }
+}

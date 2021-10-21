@@ -1,0 +1,7 @@
+npm init -y -> crear package.json
+
+npm install bootstrap@5.1 -> Instalar bootstrap al proyecto
+
+package-lock -> Nos guia las versiones de nuestras librerías
+
+hacer carpeta scss -> main.scss
