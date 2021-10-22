@@ -1,11 +1,13 @@
 $primary: #6610f2; // SOBRE ESCRIBE
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss"; // AGREGA TODO
+$small: 500px;
+$medium: 600px;
 
 #elrow {
     height: 500px;
     width: 500px;
-    margin-left: 30%;
+    margin: auto;
     align-content: center;
 }
 
